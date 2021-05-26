@@ -1,0 +1,18 @@
+* {
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+}
+
+div#display {
+    font-size: 50px;
+    text-align: center;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+      background-color: #202020;
+      color: white;
+    
+    }
+}
